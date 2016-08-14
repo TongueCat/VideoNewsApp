@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+
+    tools:context="mwx.zhouxin.com.videonewsapp.PartPlayActivity">
+<mwx.zhouxin.com.videoplayer.full.full.part.SimplerVideoView
+    android:id="@+id/simpleVideoPlayer"
+    android:layout_width="match_parent"
+    android:layout_height="400dp">
+
+</mwx.zhouxin.com.videoplayer.full.full.part.SimplerVideoView>
+</RelativeLayout>
